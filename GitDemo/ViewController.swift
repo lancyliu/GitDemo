@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("This is a Git tutorial")
+        print("Changes made by lindsey")
     }
 
     override func didReceiveMemoryWarning() {
