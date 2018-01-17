@@ -13,7 +13,8 @@ class ViewController: UIViewController {
     func testGit() {
         print("Hi Lindsey!")
         print("It's me!")
-        print("How are you")
+        print("How about you")
+        
     }
 
     override func viewDidLoad() {
