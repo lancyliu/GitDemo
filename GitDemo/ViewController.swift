@@ -13,7 +13,6 @@ class ViewController: UIViewController {
     func testGit() {
         print("Hi Lindsey!")
         print("It's me!")
-        print("How are you")
     }
 
     override func viewDidLoad() {
@@ -21,6 +20,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("This is a Git tutorial")
         print("Changes made by lindsey")
+        print("Test3")
+        print("Test line 4")
     }
 
     override func didReceiveMemoryWarning() {
