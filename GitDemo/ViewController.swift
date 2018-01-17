@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("It's me!")
         print("How about you")
         print("Let's have a try")
+        
     }
 
     override func viewDidLoad() {
@@ -29,6 +30,7 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+        print("Jessie")
     }
 
 
