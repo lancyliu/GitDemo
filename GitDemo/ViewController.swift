@@ -25,6 +25,7 @@ class ViewController: UIViewController {
         print("Changes made by lindsey")
         print("Test3")
         print("Test line 4")
+        print("Test smart git")
     }
 
     override func didReceiveMemoryWarning() {
